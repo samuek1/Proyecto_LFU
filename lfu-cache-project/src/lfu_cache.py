@@ -5,7 +5,6 @@ class LFUCache:
         self.freq = {}
 
     def get(self, key):
-        pass  # lógica para obtener
-
+        pass  
     def put(self, key, value):
         pass
