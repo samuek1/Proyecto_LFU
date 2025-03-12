@@ -1,5 +1,6 @@
 import httpx
-# Cliente para conectarse a JSONPlaceholder
+
+
 class JSONPlaceholderClient:
     BASE_URL = "https://jsonplaceholder.typicode.com"
 
